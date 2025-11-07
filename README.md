@@ -32,7 +32,7 @@
 - 💬 Ask me about **Web Development, JavaScript, React, and UI/UX**
 - 📫 Reach me at **divyanshushahxia@gmail.com**
 - 🧠 Exploring **API Integration** and **Performance Optimization**
-- 🎯 Fun fact — I debug faster with 🎧 music on!
+- 🎯 Fun fact — ☕ Fueled by coffee, driven by curiosity, and powered by code.
 
 ---
 
