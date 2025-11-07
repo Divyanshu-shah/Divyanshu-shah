@@ -70,10 +70,13 @@
 ---
 
 ### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshu-shah&show_icons=true&theme=tokyonight" width="48%" alt="stats"/>
+ 
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshu-shah&show_icons=true&theme=radical&hide_border=true&title_color=00BFFF&icon_color=00BFFF" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-shah&layout=compact&theme=radical&hide_border=true&title_color=00BFFF" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-shah&layout=compact&theme=tokyonight" width="50%" alt="languages"/>
 </p>
 
 ---
