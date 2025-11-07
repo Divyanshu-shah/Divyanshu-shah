@@ -89,9 +89,5 @@
 ### ⚡ Thanks for Visiting!  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
-</p>
-<!-- Pac-Man Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/pacman.svg" alt="Pac-Man eating contributions" width="500"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
