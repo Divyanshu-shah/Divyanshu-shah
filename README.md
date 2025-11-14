@@ -45,9 +45,12 @@
   <a href="https://twitter.com/shah_divyanshu1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://stackoverflow.com/users/22800417" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+
+  <!-- 🔥 Replaced StackOverflow with Portfolio -->
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
+
   <a href="https://www.behance.net/divyanshushah1" target="_blank">
     <img src="https://img.shields.io/badge/Behance-%231769FF.svg?&style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
@@ -59,7 +62,6 @@
   </a>
 </p>
 
----
 
 ### 🧰 Languages and Tools  
 
