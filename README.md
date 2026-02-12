@@ -14,16 +14,6 @@
   </a>
 </p>
 
----
-
-### 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyanshu-shah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6&row=1&cache_seconds=1800" />
-</p>
-
----
-
 ### 👨‍💻 About Me
 
 - 🌱 I’m currently learning **MERN Stack and Web Animation**
@@ -67,16 +57,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,cpp,bootstrap,figma,git,github,vscode" />
 </p>
 
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshu-shah&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-shah&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="50%" />
-</p>
-
----
 
 ### 🧠 Random Dev Quote  
 
