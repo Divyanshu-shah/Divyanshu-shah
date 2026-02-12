@@ -47,7 +47,7 @@
   </a>
 
   <!-- 🔥 Replaced StackOverflow with Portfolio -->
-  <a href="https://divyanshu-port.vercel.app" target="_blank">
+  <a href="my-port-folio-one-pi.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
 
